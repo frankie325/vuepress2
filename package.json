@@ -1,0 +1,17 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "serve": "npm run dev",
+    "build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.46",
+    "vuepress-theme-reco": "^2.0.0-beta.10"
+  }
+}
